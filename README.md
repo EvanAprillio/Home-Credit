@@ -1,6 +1,6 @@
 __Nama :__ Evan Aprillio Bursiano  
 __Batch :__ RMT-019  
-__Project Title :__ Modelling dengan menggunakan House Credit dataset tanpa menggunakan imputasi data dalam bentuk apapun
+__Project Title :__ Modelling dengan menggunakan House Credit dataset tanpa menggunakan imputasi data dalam bentuk apapun  
 __Project Description :__ Saya pernah membaca bahwa pembuatan machine learning dengan menggunakan data sintetis(data buatan) dapat membuat model
 menghasilkan nilai yang bias dan juga menghasilkan model yang bagus hanya dalam lingkungan lab saja, oleh karena itu di project kali ini saya ingin
 mencoba membuat sebuah model dengan cara tidak ada imputasinya sama sekali, baik berupa imput nilai null atau oversampling.
